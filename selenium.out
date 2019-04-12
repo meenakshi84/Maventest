@@ -1,0 +1,7 @@
+2019-04-11 10:37:35 INFO  LoggerTest:25 - log test1
+2019-04-11 10:37:35 INFO  LoggerTest:26 - log test2
+2019-04-11 10:37:35 INFO  LoggerTest:27 - log test3
+2019-04-11 10:40:29 INFO  LoggerTest:25 - log test1
+2019-04-11 10:40:29 INFO  LoggerTest:26 - log test2
+2019-04-11 10:40:29 INFO  LoggerTest:27 - log test3
+2019-04-11 10:40:29 INFO  LoggerTest:28 - log test4
